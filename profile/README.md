@@ -1,5 +1,8 @@
 # Hi there 👋
 
+![image](https://user-images.githubusercontent.com/877806/157033819-c24cebc7-1d0d-4b13-80b5-2f6021fb84a6.png)
+
+
 Welcome to our little den. We are [Spike.sh](https://spike.sh), a team full of nerds working on solving some untapped problems in Dev and People Ops. 
 
 Our team consists of::
