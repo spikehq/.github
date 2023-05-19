@@ -5,7 +5,7 @@
 
 Welcome to our little den. We are [Spike.sh](https://spike.sh), an Incident management platform built by nerds. Helping thousands of engineering teams across 40+ countries across the world. 
 
-Our team consists of::
+Meet the team ::
 
 1. [Kaushik](https://github.com/ktkaushik)
 1. [Divyansh](https://github.com/noob-master147)
